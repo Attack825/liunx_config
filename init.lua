@@ -82,6 +82,15 @@ require("lazy").setup({
 		'hrsh7th/cmp-cmdline',
 		'hrsh7th/nvim-cmp',
 	}
+},
+{
+
+	"preservim/nerdtree",
+
+},
+
+{
+	"nvim-treesitter/nvim-treesitter",
 }
 
 })
